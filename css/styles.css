@@ -4,10 +4,21 @@
     background-position: top;
     background-repeat: no-repeat;
     background-size:cover;
-    /* padding:15%; */
-    max-width:150%;
-    height:500px;
-    /* margin:10px 10px 0 0; */
-   /* filter: blur(0.2px);
-  -webkit-filter: blur(0.2px); */
+    /* max-width:0%; */
+    height:600px;
+}
+.text{
+    text-align: center;
+    color: white;
+    margin-top: 100px;
+}
+.sub-header{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.desc{
+    text-align: center;
+    font-family:sans-serif;
+    font-size: 15px;
 }
