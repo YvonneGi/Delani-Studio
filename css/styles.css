@@ -1,0 +1,13 @@
+.card{
+    background-image: url("../image/h_img.jpg");
+    /* height: 500px; */
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size:cover;
+    /* padding:15%; */
+    max-width:150%;
+    height:500px;
+    /* margin:10px 10px 0 0; */
+   /* filter: blur(0.2px);
+  -webkit-filter: blur(0.2px); */
+}
