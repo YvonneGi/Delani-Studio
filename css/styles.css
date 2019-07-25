@@ -15,7 +15,7 @@
 .sub-header{
     text-align: center;
     font-family: sans-serif;
-    font-size: 20px;
+    /* font-size: 20px; */
 }
 .desc{
     text-align: center;
@@ -27,4 +27,17 @@
     background-repeat: no-repeat;
     background-size: cover;
     height: 400px;
+}
+.sub1-header{
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 100px;
+}
+.desc1{
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+    font-size: 15px;
+    /* margin-top: 10px; */
 }
