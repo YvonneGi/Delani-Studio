@@ -22,3 +22,9 @@
     font-family:sans-serif;
     font-size: 15px;
 }
+.card1{
+    background-image: url("../image/s_image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+}
