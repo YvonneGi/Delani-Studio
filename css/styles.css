@@ -23,12 +23,12 @@
 .sub-header{
     text-align: center;
     font-family: sans-serif;
-    /* font-size: 20px; */
+    font-size: 30px;
 }
 .desc{
     text-align: center;
     font-family:sans-serif;
-    font-size: 15px;
+    font-size: 17px;
 }
 .card1{
     background-image: url("../images/s_image.jpg");
@@ -39,6 +39,7 @@
 .sub1-header{
     color: white;
     text-align: center;
+    font-size: 30px;
     margin-top: 20px;
     padding-top: 100px;
 }
@@ -46,7 +47,7 @@
     text-align: center;
     color: white;
     font-family: sans-serif;
-    font-size: 15px;
+    font-size: 17px;
 }
 .sub2-header{
     text-align: center;
