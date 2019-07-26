@@ -94,12 +94,15 @@
 }
 #our-design{
     display: none;
+    cursor: pointer;
 }
 #our-dev{
     display: none;
+    cursor: pointer;
 }
 #our-prod{
     display: none;
+    cursor: pointer;
 }
 .card2{
     margin-left: 17%;
@@ -109,4 +112,10 @@
 }
 .card4{
     margin-left: 38%
+}
+input::-webkit-input-placeholder{
+    color:white !important;
+}
+textarea::-webkit-input-placeholder{
+    color: white !important;
 }

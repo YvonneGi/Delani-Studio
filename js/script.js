@@ -8,4 +8,10 @@ $("img#icon2").click(function(){
 $("img#icon3").click(function(){
 $("#our-prod").toggle();
 });
+$("#work4").mouseover(function(){
+$("#work4").css("background-color", "yellow");
 });
+});
+
+
+
