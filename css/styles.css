@@ -61,3 +61,10 @@
 .copyright{
     text-align: center;
 }
+.btn{
+    text-align: center;
+    color: white;
+    background-color: black;
+    border: 1px;
+    margin-left: 45%;
+}
