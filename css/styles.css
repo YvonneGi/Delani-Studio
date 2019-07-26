@@ -3,12 +3,16 @@
     background-position: top;
     background-repeat: no-repeat;
     background-size:cover;
-    height:600px;
+    height:800px;
 }
 .text{
     text-align: center;
     color: white;
     margin-top: 100px;
+}
+.delani-header{
+    font-family: sans-serif;
+    font-size: 50px;
 }
 .sub-header{
     text-align: center;
@@ -70,6 +74,7 @@
 }
 .form-control{
     background: transparent;
-    border: 1px solid black;
+    border: 1px solid white;
     border-radius: 0px;
+    color: white;
 }
