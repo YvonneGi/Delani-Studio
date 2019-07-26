@@ -1,5 +1,5 @@
 .card{
-    background-image: url("../image/h_img.jpg");
+    background-image: url("../images/h_img.jpg");
     background-position: top;
     background-repeat: no-repeat;
     background-size:cover;
@@ -21,7 +21,7 @@
     font-size: 15px;
 }
 .card1{
-    background-image: url("../image/s_image.jpg");
+    background-image: url("../images/s_image.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 400px;
@@ -46,7 +46,7 @@
     text-align: center;
 }
 .card5{
-    background-image: url("../image/c_image.jpg");
+    background-image: url("../images/c_image.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 400px;
