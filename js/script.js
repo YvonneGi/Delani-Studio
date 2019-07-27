@@ -114,7 +114,21 @@ $(this).animate({opacity:'0.8',});
 $(".w8").slidetoggle();
 };
 });
-
+function message(){
+var name = alert.value;
+name = true;
+var email = alert.value;
+email = true;
+var message1 = alert.value;
+message1 = true;
+if( name === true && email ===true && message1 == true){
+alert("Thank you for reaching out to us") ;
+}
+else
+{
+alert ("Write your name correctly");
+}
+}
 
 
 
