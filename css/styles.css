@@ -240,6 +240,24 @@ textarea::-webkit-input-placeholder
     margin-top: 30%;
     transform: translate(-20%,-20%);
 }
+#name{
+    width:65%;
+    margin-left: 30%;
+}
+#email{
+    width: 65%;
+    margin-right: 30%;
+}
+#comment{
+ width: 700px;
+ height: 200px;
+ margin-left: 18%;
+}
+#demo{
+    text-align: center;
+    color: white;
+    font-family: inherit;
+}
 
 
 
