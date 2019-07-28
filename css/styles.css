@@ -144,7 +144,8 @@ textarea::-webkit-input-placeholder
 {
     color: white !important;
 }
-.w1{
+.w1
+{
     font-family:Arial, Helvetica, sans-serif;
     font-size: 20px;
     text-align: center;
@@ -156,7 +157,8 @@ textarea::-webkit-input-placeholder
     margin-top: 30%;
     transform: translate(-20%,-20%);
 }
-.w2{
+.w2
+{
     font-family:Arial, Helvetica, sans-serif;
     font-size: 25px;
     text-align: center;
@@ -168,7 +170,8 @@ textarea::-webkit-input-placeholder
     margin-top: 30%;
     transform: translate(-20%,-20%);
 }
-.w3{
+.w3
+{
     font-family:Arial, Helvetica, sans-serif;
     font-size: 20px;
     text-align: center;
@@ -180,7 +183,8 @@ textarea::-webkit-input-placeholder
     margin-top: 30%;
     transform: translate(-20%,-20%);
 }
-.w4{
+.w4
+{
     font-family:Arial, Helvetica, sans-serif;
     font-size: 20px;
     text-align: center;
@@ -192,7 +196,8 @@ textarea::-webkit-input-placeholder
     margin-top: 30%;
     transform: translate(-20%,-20%);
 }
-.w5{
+.w5
+{
     font-family:Arial, Helvetica, sans-serif;
     font-size: 20px;
     text-align: center;
@@ -204,7 +209,8 @@ textarea::-webkit-input-placeholder
     margin-top: 30%;
     transform: translate(-20%,-20%);
 }
-.w6{
+.w6
+{
     font-family:Arial, Helvetica, sans-serif;
     font-size: 20px;
     text-align: center;
@@ -216,7 +222,8 @@ textarea::-webkit-input-placeholder
     margin-top: 30%;
     transform: translate(-20%,-20%);
 }
-.w7{
+.w7
+{
     font-family:Arial, Helvetica, sans-serif;
     font-size: 20px;
     text-align: center;
@@ -228,7 +235,8 @@ textarea::-webkit-input-placeholder
     margin-top: 30%;
     transform: translate(-20%,-20%);
 }
-.w8{
+.w8
+{
     font-family:Arial, Helvetica, sans-serif;
     font-size: 20px;
     text-align: center;
@@ -240,15 +248,18 @@ textarea::-webkit-input-placeholder
     margin-top: 30%;
     transform: translate(-20%,-20%);
 }
-#name{
+#name
+{
     width:65%;
     margin-left: 30%;
 }
-#email{
+#email
+{
     width: 65%;
     margin-right: 30%;
 }
-#comment{
+#comment
+{
  width: 700px;
  height: 200px;
  margin-left: 18%;

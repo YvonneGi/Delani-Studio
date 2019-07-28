@@ -13,7 +13,7 @@ Done at 27th july,2019
 **GitHub
 **Visual Studio
 ## Support and contact details
-**E-mail:giryvonne@ggmail.com
+**E-mail:giryvonne@gmail.com
 **Phone-Number:(250) 783 230 882
 ### License
 **Copyright (c) Delani studio,2019
