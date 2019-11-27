@@ -1,4 +1,4 @@
-# Delani Studion
+# Delani Studio
 #### Delani Studio website, 
 Done at 27th july,2019
 #### By **Yvonne**
